@@ -1,2 +1,5 @@
 # R_dataviz_datadasud
-dataviz sur le catalogue datasud
+Représentation graphique du Crawler du  catalogue Datadsud
+
+La donnée est publiée :
+https://trouver.datasud.fr/dataset/nombre-de-donnees-publiees-dans-datasud
